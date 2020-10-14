@@ -7,9 +7,7 @@ public class Level2_7 {
 		
 		Solution2_7 sol = new Solution2_7();
 		sol.solution("ababcdcdababcdcd");
-		
 	}
-
 }
 class Solution2_7 {
     public int solution(String s) {
@@ -49,7 +47,6 @@ class Solution2_7 {
         	answer = Math.min(answer, result.length());
         	
         }
-        System.out.println(answer);
         return answer;
     }
     
