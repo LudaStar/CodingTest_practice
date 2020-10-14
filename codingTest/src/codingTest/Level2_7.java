@@ -47,6 +47,7 @@ class Solution2_7 {
         	answer = Math.min(answer, result.length());
         	
         }
+        System.out.println(answer);
         return answer;
     }
     
