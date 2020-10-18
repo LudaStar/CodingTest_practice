@@ -5,7 +5,7 @@ public class Level2_10 {
 	public static void main(String[] args) {
 		
 		Solution2_10 sol = new Solution2_10();
-		int[] nums = {1,2,7,6,4,36,67,13,26,388,12};
+		int[] nums = {1,2,7,6,4};
 		sol.solution(nums);
 	}
 
